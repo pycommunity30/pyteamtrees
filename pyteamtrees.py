@@ -2,7 +2,6 @@
 import pygame
 import random
 import time
-from pynput import c
 x = 0
 y = 0
 treex = random.randint(20,580)
