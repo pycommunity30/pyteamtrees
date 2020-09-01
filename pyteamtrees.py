@@ -1,4 +1,4 @@
-#teamtrees
+# teamtrees
 import pygame
 import random
 import time
@@ -11,6 +11,7 @@ green = (0, 150, 0)
 brown = (50, 40, 0)
 white = (255, 255, 255)
 mission = "Collect the saplings!!!"
+pygame.init()
 pygame.font.init()
 myfont = pygame.font.SysFont('Comic Sans MS', 30)
 time.sleep(1)
