@@ -22,4 +22,4 @@ while True:
         window.blit(textsurface, (0, 0))
         pygame.draw.rect(window, brown, ((treex + 9), (treey + 30), 15, 30))
         pygame.draw.rect(window, green, (treex, treey, 30, 30))
-        pygame.display.update()
+        pygame.display.update() 
